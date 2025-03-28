@@ -49,4 +49,9 @@ Este repositorio contiene **Ejercicios de HTML** divididos por niveles de dificu
 **Página multipágina (5 HTMLs):** Crear una web con 5 páginas HTML enlazadas entre sí (inicio, contacto, productos, etc).
 **Formulario completo:** Crear un formulario con todos los tipos de inputs: texto, email, password, file, color, fecha, número, radio, checkbox, select, textarea, range, etc.
 
+Plantear un formulario ejemplificadom y aplicable a un contexto especifico y real, donde de antemano sepamos que se van a aplicar casi todos los tipos de inputs posibles (no dar un ejercicio en el que tengan que aplicar todos los tipos de inputs porque si, no tiene contexto, ni utilidad, ni guia para el aulumno en darse cuenta que beneficios y funcionalidades tiene cada tipo en un contexto real). Ejemplo: formulario de carga de clientes con datos predefinidos por nosotros, donde sepamos que va a ser necesario aplicar todos los tipos de input)
+
+Sacar ejercicio de CV, esta MUY quemado, ni siquiera le sirve al alumno porque encima hay que colocar datos ficticios, y un CV no tiene sentido sin un minimo de CSS
+
+Ejercicio de multipaginas es MUY ambiguo, que debe poner cada alumno dentro de cada pagina? debe centrarse en el contenido de cada seccio o en la navegabilidad que supongo es el motivo de este ejercicio? Reveer bien
 ---
